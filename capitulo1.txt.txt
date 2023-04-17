@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 Linea uno modificada
 Linea dos modificada
 Linea tres modificada
 Linea cuatro modificada
+=======
+Linea uno
+Linea dos
+
+
+nueva linea 
+segunda nueva linea
+>>>>>>> 9928616eea3edfcd3b5bd2f8d31d473f7d8b0bde
